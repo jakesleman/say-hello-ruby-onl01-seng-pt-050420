@@ -1,2 +1,5 @@
-def greeting (Gabriela)
-  say_hello("Gabriela")
+def say_hello("Gabriela")
+ 
+ 
+  
+end
